@@ -1,1 +1,1 @@
-# simple-login-form to test firebase auth functionality 
+# simple-login-form to test firebase auth functionalitys
